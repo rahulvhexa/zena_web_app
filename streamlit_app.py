@@ -1,5 +1,5 @@
 import streamlit
 import snowflake.connector
 
-streamlit.title('Zena's Web Ccatalog')
+streamlit.title('Zenas Web Catalog')
 
